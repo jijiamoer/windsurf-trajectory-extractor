@@ -140,6 +140,7 @@ MIT
 ## Related Projects
 
 - [nowledge-mem](https://mem.nowledge.co) — Personal memory system for AI agents
+- [antigravity-trajectory-extractor](https://github.com/jijiamoer/antigravity-trajectory-extractor) — Live RPC extraction for Antigravity
 - [0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction) — Multi-tool extraction (JSON-based)
 
 ---
