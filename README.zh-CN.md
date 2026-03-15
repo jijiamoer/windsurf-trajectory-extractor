@@ -89,6 +89,10 @@ windsurf-trajectory -w WORKSPACE_ID -o trajectory.jsonl
 | `tool_calls` | 工具调用数组，包含参数 |
 | `provider` | 模型提供商（如 "anthropic"） |
 
+## 架构
+
+![架构图](assets/architecture-zh.svg)
+
 ## 技术细节
 
 ### 数据位置
